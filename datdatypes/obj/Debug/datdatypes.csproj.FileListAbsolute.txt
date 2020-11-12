@@ -1,0 +1,6 @@
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\datdatypes\bin\Debug\datdatypes.exe.config
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\datdatypes\bin\Debug\datdatypes.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\datdatypes\bin\Debug\datdatypes.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\datdatypes\obj\Debug\datdatypes.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\datdatypes\obj\Debug\datdatypes.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\datdatypes\obj\Debug\datdatypes.csprojResolveAssemblyReference.cache

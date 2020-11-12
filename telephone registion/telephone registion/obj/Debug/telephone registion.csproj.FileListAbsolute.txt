@@ -1,0 +1,12 @@
+c:\users\my pc\documents\visual studio 2012\Projects\telephone registion\telephone registion\bin\Debug\telephone registion.exe.config
+C:\Users\MY PC\documents\visual studio 2012\Projects\telephone registion\telephone registion\obj\Debug\telephone registion.csprojResolveAssemblyReference.cache
+C:\Users\MY PC\documents\visual studio 2012\Projects\telephone registion\telephone registion\obj\Debug\telephone_registion.Form1.resources
+C:\Users\MY PC\documents\visual studio 2012\Projects\telephone registion\telephone registion\obj\Debug\telephone_registion.Properties.Resources.resources
+C:\Users\MY PC\documents\visual studio 2012\Projects\telephone registion\telephone registion\obj\Debug\telephone registion.csproj.GenerateResource.Cache
+C:\Users\MY PC\documents\visual studio 2012\Projects\telephone registion\telephone registion\bin\Debug\telephone registion.exe
+C:\Users\MY PC\documents\visual studio 2012\Projects\telephone registion\telephone registion\bin\Debug\telephone registion.pdb
+C:\Users\MY PC\documents\visual studio 2012\Projects\telephone registion\telephone registion\obj\Debug\telephone registion.exe
+C:\Users\MY PC\documents\visual studio 2012\Projects\telephone registion\telephone registion\obj\Debug\telephone registion.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\telephone registion\telephone registion\bin\Debug\telephone registion.exe.config
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\telephone registion\telephone registion\obj\Debug\telephone registion.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\telephone registion\telephone registion\obj\Debug\telephone registion.pdb

@@ -1,0 +1,13 @@
+c:\users\my pc\documents\visual studio 2012\Projects\user_from_project_most_important\user_from_project_most_important\bin\Debug\user_from_project_most_important.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\user_from_project_most_important\user_from_project_most_important\bin\Debug\user_from_project_most_important.exe
+c:\users\my pc\documents\visual studio 2012\Projects\user_from_project_most_important\user_from_project_most_important\bin\Debug\user_from_project_most_important.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\user_from_project_most_important\user_from_project_most_important\obj\Debug\user_from_project_most_important.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\user_from_project_most_important\user_from_project_most_important\obj\Debug\user_from_project_most_important.Create_Account.resources
+c:\users\my pc\documents\visual studio 2012\Projects\user_from_project_most_important\user_from_project_most_important\obj\Debug\user_from_project_most_important.Form1.resources
+c:\users\my pc\documents\visual studio 2012\Projects\user_from_project_most_important\user_from_project_most_important\obj\Debug\user_from_project_most_important.Properties.Resources.resources
+c:\users\my pc\documents\visual studio 2012\Projects\user_from_project_most_important\user_from_project_most_important\obj\Debug\user_from_project_most_important.csproj.GenerateResource.Cache
+c:\users\my pc\documents\visual studio 2012\Projects\user_from_project_most_important\user_from_project_most_important\obj\Debug\user_from_project_most_important.exe
+c:\users\my pc\documents\visual studio 2012\Projects\user_from_project_most_important\user_from_project_most_important\obj\Debug\user_from_project_most_important.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\user_from_project_most_important\user_from_project_most_important\bin\Debug\user_from_project_most_important.exe.config
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\user_from_project_most_important\user_from_project_most_important\obj\Debug\user_from_project_most_important.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\user_from_project_most_important\user_from_project_most_important\obj\Debug\user_from_project_most_important.pdb

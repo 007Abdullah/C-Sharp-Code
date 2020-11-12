@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\Namespace Aliases name\Namespace Aliases name\bin\Debug\Namespace Aliases name.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\Namespace Aliases name\Namespace Aliases name\bin\Debug\Namespace Aliases name.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Namespace Aliases name\Namespace Aliases name\bin\Debug\Namespace Aliases name.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\Namespace Aliases name\Namespace Aliases name\obj\Debug\Namespace Aliases name.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\Namespace Aliases name\Namespace Aliases name\obj\Debug\Namespace Aliases name.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Namespace Aliases name\Namespace Aliases name\obj\Debug\Namespace Aliases name.pdb

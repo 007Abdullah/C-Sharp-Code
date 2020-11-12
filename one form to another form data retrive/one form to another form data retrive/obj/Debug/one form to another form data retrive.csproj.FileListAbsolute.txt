@@ -1,0 +1,13 @@
+c:\users\my pc\documents\visual studio 2012\Projects\one form to another form data retrive\one form to another form data retrive\bin\Debug\one form to another form data retrive.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\one form to another form data retrive\one form to another form data retrive\bin\Debug\one form to another form data retrive.exe.config
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\one form to another form data retrive\one form to another form data retrive\bin\Debug\one form to another form data retrive.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\one form to another form data retrive\one form to another form data retrive\obj\Debug\one_form_to_another_form_data_retrive.Form1.resources
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\one form to another form data retrive\one form to another form data retrive\obj\Debug\one_form_to_another_form_data_retrive.Form2.resources
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\one form to another form data retrive\one form to another form data retrive\obj\Debug\one_form_to_another_form_data_retrive.Properties.Resources.resources
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\one form to another form data retrive\one form to another form data retrive\obj\Debug\one form to another form data retrive.csproj.GenerateResource.Cache
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\one form to another form data retrive\one form to another form data retrive\obj\Debug\one form to another form data retrive.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\one form to another form data retrive\one form to another form data retrive\obj\Debug\one form to another form data retrive.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\one form to another form data retrive\one form to another form data retrive\obj\Debug\one form to another form data retrive.csprojResolveAssemblyReference.cache
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\one form to another form data retrive\one form to another form data retrive\bin\Debug\one form to another form data retrive.exe.config
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\one form to another form data retrive\one form to another form data retrive\obj\Debug\one form to another form data retrive.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\one form to another form data retrive\one form to another form data retrive\obj\Debug\one form to another form data retrive.pdb

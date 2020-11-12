@@ -1,0 +1,9 @@
+c:\users\its my life\documents\visual studio 2013\Projects\animation\animation\bin\Debug\animation.exe.config
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\animation.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\animation\animation\bin\Debug\animation.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\animation.csprojResolveAssemblyReference.cache
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\animation.Form1.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\animation.Properties.Resources.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\animation.csproj.GenerateResource.Cache
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\animation.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\animation\animation\obj\Debug\animation.pdb

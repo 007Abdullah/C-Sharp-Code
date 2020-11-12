@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\Permitize Method\Permitize Method\bin\Debug\Permitize Method.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\Permitize Method\Permitize Method\bin\Debug\Permitize Method.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Permitize Method\Permitize Method\bin\Debug\Permitize Method.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\Permitize Method\Permitize Method\obj\Debug\Permitize Method.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\Permitize Method\Permitize Method\obj\Debug\Permitize Method.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Permitize Method\Permitize Method\obj\Debug\Permitize Method.pdb

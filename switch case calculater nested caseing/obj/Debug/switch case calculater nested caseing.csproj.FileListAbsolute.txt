@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\switch case calculater nested caseing\bin\Debug\switch case calculater nested caseing.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\switch case calculater nested caseing\bin\Debug\switch case calculater nested caseing.exe
+c:\users\my pc\documents\visual studio 2012\Projects\switch case calculater nested caseing\bin\Debug\switch case calculater nested caseing.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\switch case calculater nested caseing\obj\Debug\switch case calculater nested caseing.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\switch case calculater nested caseing\obj\Debug\switch case calculater nested caseing.exe
+c:\users\my pc\documents\visual studio 2012\Projects\switch case calculater nested caseing\obj\Debug\switch case calculater nested caseing.pdb

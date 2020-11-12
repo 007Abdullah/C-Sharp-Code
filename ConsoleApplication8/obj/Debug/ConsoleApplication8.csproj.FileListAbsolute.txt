@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+c:\users\my pc\documents\visual studio 2012\Projects\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+c:\users\my pc\documents\visual studio 2012\Projects\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache

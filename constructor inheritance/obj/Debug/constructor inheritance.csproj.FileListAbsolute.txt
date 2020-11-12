@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\constructor inheritance\bin\Debug\constructor inheritance.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\constructor inheritance\bin\Debug\constructor inheritance.exe
+c:\users\my pc\documents\visual studio 2012\Projects\constructor inheritance\bin\Debug\constructor inheritance.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\constructor inheritance\obj\Debug\constructor inheritance.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\constructor inheritance\obj\Debug\constructor inheritance.exe
+c:\users\my pc\documents\visual studio 2012\Projects\constructor inheritance\obj\Debug\constructor inheritance.pdb

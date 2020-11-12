@@ -1,0 +1,5 @@
+c:\users\my pc\documents\visual studio 2012\Projects\assignment ch7\bin\Debug\assignment ch7.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\assignment ch7\bin\Debug\assignment ch7.exe
+c:\users\my pc\documents\visual studio 2012\Projects\assignment ch7\bin\Debug\assignment ch7.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\assignment ch7\obj\Debug\assignment ch7.exe
+c:\users\my pc\documents\visual studio 2012\Projects\assignment ch7\obj\Debug\assignment ch7.pdb

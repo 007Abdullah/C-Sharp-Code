@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\goto contiune return\bin\Debug\goto contiune return.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\goto contiune return\bin\Debug\goto contiune return.exe
+c:\users\my pc\documents\visual studio 2012\Projects\goto contiune return\bin\Debug\goto contiune return.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\goto contiune return\obj\Debug\goto contiune return.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\goto contiune return\obj\Debug\goto contiune return.exe
+c:\users\my pc\documents\visual studio 2012\Projects\goto contiune return\obj\Debug\goto contiune return.pdb

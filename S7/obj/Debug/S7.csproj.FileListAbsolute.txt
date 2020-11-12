@@ -1,0 +1,11 @@
+C:\Users\Teacher PC\Desktop\S7\bin\Debug\S7.exe.config
+C:\Users\Teacher PC\Desktop\S7\bin\Debug\S7.exe
+C:\Users\Teacher PC\Desktop\S7\bin\Debug\S7.pdb
+C:\Users\Teacher PC\Desktop\S7\obj\Debug\S7.exe
+C:\Users\Teacher PC\Desktop\S7\obj\Debug\S7.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\S7\bin\Debug\S7.exe.config
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\S7\obj\Debug\S7.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\S7\obj\Debug\S7.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\S7\bin\Debug\S7.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\S7\bin\Debug\S7.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\S7\obj\Debug\S7.csprojResolveAssemblyReference.cache

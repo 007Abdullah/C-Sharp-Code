@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\no fall thourgh swtich case\bin\Debug\no fall thourgh swtich case.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\no fall thourgh swtich case\bin\Debug\no fall thourgh swtich case.exe
+c:\users\my pc\documents\visual studio 2012\Projects\no fall thourgh swtich case\bin\Debug\no fall thourgh swtich case.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\no fall thourgh swtich case\obj\Debug\no fall thourgh swtich case.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\no fall thourgh swtich case\obj\Debug\no fall thourgh swtich case.exe
+c:\users\my pc\documents\visual studio 2012\Projects\no fall thourgh swtich case\obj\Debug\no fall thourgh swtich case.pdb

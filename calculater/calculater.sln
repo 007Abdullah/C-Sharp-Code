@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculater", "calculater\calculater.csproj", "{5E4489C7-9FB8-41D6-AA86-9D124B8B8A1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parametiz methode", "parametiz methode\parametiz methode.csproj", "{E6831046-ECA1-4FAC-AA6B-BA683414F569}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E4489C7-9FB8-41D6-AA86-9D124B8B8A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4489C7-9FB8-41D6-AA86-9D124B8B8A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4489C7-9FB8-41D6-AA86-9D124B8B8A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4489C7-9FB8-41D6-AA86-9D124B8B8A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6831046-ECA1-4FAC-AA6B-BA683414F569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6831046-ECA1-4FAC-AA6B-BA683414F569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6831046-ECA1-4FAC-AA6B-BA683414F569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6831046-ECA1-4FAC-AA6B-BA683414F569}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

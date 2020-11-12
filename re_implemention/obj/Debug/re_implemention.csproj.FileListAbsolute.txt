@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\re_implemention\bin\Debug\re_implemention.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\re_implemention\bin\Debug\re_implemention.exe
+c:\users\my pc\documents\visual studio 2012\Projects\re_implemention\bin\Debug\re_implemention.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\re_implemention\obj\Debug\re_implemention.exe
+c:\users\my pc\documents\visual studio 2012\Projects\re_implemention\obj\Debug\re_implemention.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\re_implemention\obj\Debug\re_implemention.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Array dimenstion and jagged array\bin\Debug\Array dimenstion and jagged array.exe.config
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Array dimenstion and jagged array\bin\Debug\Array dimenstion and jagged array.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Array dimenstion and jagged array\bin\Debug\Array dimenstion and jagged array.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Array dimenstion and jagged array\obj\Debug\Array dimenstion and jagged array.csprojResolveAssemblyReference.cache
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Array dimenstion and jagged array\obj\Debug\Array dimenstion and jagged array.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Array dimenstion and jagged array\obj\Debug\Array dimenstion and jagged array.pdb

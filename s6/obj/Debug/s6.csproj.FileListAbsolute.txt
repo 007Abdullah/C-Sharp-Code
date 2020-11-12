@@ -1,0 +1,8 @@
+C:\Users\Teacher PC\Desktop\s6\bin\Debug\s6.exe.config
+C:\Users\Teacher PC\Desktop\s6\bin\Debug\s6.exe
+C:\Users\Teacher PC\Desktop\s6\bin\Debug\s6.pdb
+C:\Users\Teacher PC\Desktop\s6\obj\Debug\s6.exe
+C:\Users\Teacher PC\Desktop\s6\obj\Debug\s6.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\s6\bin\Debug\s6.exe.config
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\s6\obj\Debug\s6.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\s6\obj\Debug\s6.pdb

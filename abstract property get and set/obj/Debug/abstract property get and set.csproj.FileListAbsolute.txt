@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\abstract property get and set\bin\Debug\abstract property get and set.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\abstract property get and set\bin\Debug\abstract property get and set.exe
+c:\users\my pc\documents\visual studio 2012\Projects\abstract property get and set\bin\Debug\abstract property get and set.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\abstract property get and set\obj\Debug\abstract property get and set.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\abstract property get and set\obj\Debug\abstract property get and set.exe
+c:\users\my pc\documents\visual studio 2012\Projects\abstract property get and set\obj\Debug\abstract property get and set.pdb

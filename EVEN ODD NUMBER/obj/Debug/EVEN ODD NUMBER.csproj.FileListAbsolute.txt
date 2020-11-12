@@ -1,0 +1,5 @@
+c:\users\my pc\documents\visual studio 2012\Projects\EVEN ODD NUMBER\bin\Debug\EVEN ODD NUMBER.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\EVEN ODD NUMBER\bin\Debug\EVEN ODD NUMBER.exe
+c:\users\my pc\documents\visual studio 2012\Projects\EVEN ODD NUMBER\bin\Debug\EVEN ODD NUMBER.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\EVEN ODD NUMBER\obj\Debug\EVEN ODD NUMBER.exe
+c:\users\my pc\documents\visual studio 2012\Projects\EVEN ODD NUMBER\obj\Debug\EVEN ODD NUMBER.pdb

@@ -1,0 +1,9 @@
+c:\users\its my life\documents\visual studio 2013\Projects\fingerprint project\fingerprint project\bin\Debug\fingerprint project.exe.config
+c:\users\its my life\documents\visual studio 2013\Projects\fingerprint project\fingerprint project\bin\Debug\fingerprint project.exe
+c:\users\its my life\documents\visual studio 2013\Projects\fingerprint project\fingerprint project\bin\Debug\fingerprint project.pdb
+c:\users\its my life\documents\visual studio 2013\Projects\fingerprint project\fingerprint project\obj\Debug\fingerprint project.csprojResolveAssemblyReference.cache
+c:\users\its my life\documents\visual studio 2013\Projects\fingerprint project\fingerprint project\obj\Debug\fingerprint_project.Form1.resources
+c:\users\its my life\documents\visual studio 2013\Projects\fingerprint project\fingerprint project\obj\Debug\fingerprint_project.Properties.Resources.resources
+c:\users\its my life\documents\visual studio 2013\Projects\fingerprint project\fingerprint project\obj\Debug\fingerprint project.csproj.GenerateResource.Cache
+c:\users\its my life\documents\visual studio 2013\Projects\fingerprint project\fingerprint project\obj\Debug\fingerprint project.exe
+c:\users\its my life\documents\visual studio 2013\Projects\fingerprint project\fingerprint project\obj\Debug\fingerprint project.pdb

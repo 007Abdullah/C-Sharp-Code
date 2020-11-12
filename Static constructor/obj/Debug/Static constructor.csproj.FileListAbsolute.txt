@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\Static constructor\bin\Debug\Static constructor.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\Static constructor\bin\Debug\Static constructor.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Static constructor\bin\Debug\Static constructor.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\Static constructor\obj\Debug\Static constructor.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Static constructor\obj\Debug\Static constructor.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Static constructor\obj\Debug\Static constructor.csprojResolveAssemblyReference.cache

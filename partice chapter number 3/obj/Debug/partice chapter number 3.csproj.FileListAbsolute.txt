@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\partice chapter number 3\bin\Debug\partice chapter number 3.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\partice chapter number 3\bin\Debug\partice chapter number 3.exe
+c:\users\my pc\documents\visual studio 2012\Projects\partice chapter number 3\bin\Debug\partice chapter number 3.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\partice chapter number 3\obj\Debug\partice chapter number 3.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\partice chapter number 3\obj\Debug\partice chapter number 3.exe
+c:\users\my pc\documents\visual studio 2012\Projects\partice chapter number 3\obj\Debug\partice chapter number 3.pdb

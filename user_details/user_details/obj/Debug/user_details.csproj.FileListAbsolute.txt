@@ -1,0 +1,20 @@
+c:\users\my pc\documents\visual studio 2012\Projects\user_details\user_details\bin\Debug\user_details.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\user_details\user_details\bin\Debug\user_details.exe
+c:\users\my pc\documents\visual studio 2012\Projects\user_details\user_details\bin\Debug\user_details.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\user_details\user_details\obj\Debug\user_details.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\user_details\user_details\obj\Debug\user_details.Form1.resources
+c:\users\my pc\documents\visual studio 2012\Projects\user_details\user_details\obj\Debug\user_details.Properties.Resources.resources
+c:\users\my pc\documents\visual studio 2012\Projects\user_details\user_details\obj\Debug\user_details.registr.resources
+c:\users\my pc\documents\visual studio 2012\Projects\user_details\user_details\obj\Debug\user_details.csproj.GenerateResource.Cache
+c:\users\my pc\documents\visual studio 2012\Projects\user_details\user_details\obj\Debug\user_details.exe
+c:\users\my pc\documents\visual studio 2012\Projects\user_details\user_details\obj\Debug\user_details.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\user_details\user_details\bin\Debug\user_details.exe.config
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\user_details\user_details\obj\Debug\user_details.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\user_details\user_details\obj\Debug\user_details.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\user_details\user_details\bin\Debug\user_details.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\user_details\user_details\bin\Debug\user_details.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\user_details\user_details\obj\Debug\user_details.csprojResolveAssemblyReference.cache
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\user_details\user_details\obj\Debug\user_details.Form1.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\user_details\user_details\obj\Debug\user_details.Properties.Resources.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\user_details\user_details\obj\Debug\user_details.registr.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\user_details\user_details\obj\Debug\user_details.csproj.GenerateResource.Cache

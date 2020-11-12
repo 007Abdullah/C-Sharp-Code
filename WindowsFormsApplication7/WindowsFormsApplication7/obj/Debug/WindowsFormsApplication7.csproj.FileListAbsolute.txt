@@ -1,0 +1,11 @@
+c:\users\its my life\documents\visual studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\RdlCompile.cache
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\Debug\RdlCompile.compiled

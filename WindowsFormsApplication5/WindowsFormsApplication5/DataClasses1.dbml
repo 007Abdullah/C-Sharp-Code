@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="datae" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=datae;User ID=sa" SettingsObjectName="WindowsFormsApplication5.Properties.Settings" SettingsPropertyName="dataeConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.razzaq" Member="razzaqs">
+    <Type Name="razzaq">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="fnam" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="addres" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="cnic" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="salary" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.country" Member="countries">
+    <Type Name="country">
+      <Column Name="c_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="c_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="country_province" Member="provinces" ThisKey="c_id" OtherKey="count_id" Type="province" />
+    </Type>
+  </Table>
+  <Table Name="dbo.provinces" Member="provinces">
+    <Type Name="province">
+      <Column Name="p_id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="p_name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="count_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="country_province" Member="country" ThisKey="count_id" OtherKey="c_id" Type="country" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

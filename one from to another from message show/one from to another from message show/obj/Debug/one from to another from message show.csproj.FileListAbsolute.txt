@@ -1,0 +1,13 @@
+c:\users\my pc\documents\visual studio 2012\Projects\one from to another from message show\one from to another from message show\bin\Debug\one from to another from message show.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\one from to another from message show\one from to another from message show\bin\Debug\one from to another from message show.exe
+c:\users\my pc\documents\visual studio 2012\Projects\one from to another from message show\one from to another from message show\bin\Debug\one from to another from message show.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\one from to another from message show\one from to another from message show\obj\Debug\one from to another from message show.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\one from to another from message show\one from to another from message show\obj\Debug\one_from_to_another_from_message_show.Form1.resources
+c:\users\my pc\documents\visual studio 2012\Projects\one from to another from message show\one from to another from message show\obj\Debug\one_from_to_another_from_message_show.Properties.Resources.resources
+c:\users\my pc\documents\visual studio 2012\Projects\one from to another from message show\one from to another from message show\obj\Debug\one from to another from message show.csproj.GenerateResource.Cache
+c:\users\my pc\documents\visual studio 2012\Projects\one from to another from message show\one from to another from message show\obj\Debug\one from to another from message show.exe
+c:\users\my pc\documents\visual studio 2012\Projects\one from to another from message show\one from to another from message show\obj\Debug\one from to another from message show.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\one from to another from message show\one from to another from message show\bin\Debug\MetroFramework.dll
+c:\users\my pc\documents\visual studio 2012\Projects\one from to another from message show\one from to another from message show\obj\Debug\one_from_to_another_from_message_show.Register.resources
+c:\users\my pc\documents\visual studio 2012\Projects\one from to another from message show\one from to another from message show\bin\Debug\MetroFramework.Design.dll
+c:\users\my pc\documents\visual studio 2012\Projects\one from to another from message show\one from to another from message show\bin\Debug\MetroFramework.Fonts.dll

@@ -1,0 +1,2 @@
+c:\users\my pc\documents\visual studio 2012\Projects\Form\bin\Debug\Form.exe.config
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Form\bin\Debug\Form.exe.config

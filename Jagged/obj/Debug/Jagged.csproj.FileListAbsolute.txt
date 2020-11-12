@@ -1,0 +1,14 @@
+C:\Users\Teacher PC\Desktop\Jagged\bin\Debug\Jagged.exe.config
+C:\Users\Teacher PC\Desktop\Jagged\bin\Debug\Jagged.exe
+C:\Users\Teacher PC\Desktop\Jagged\bin\Debug\Jagged.pdb
+C:\Users\Teacher PC\Desktop\Jagged\obj\Debug\Jagged.csprojResolveAssemblyReference.cache
+C:\Users\Teacher PC\Desktop\Jagged\obj\Debug\Jagged.exe
+C:\Users\Teacher PC\Desktop\Jagged\obj\Debug\Jagged.pdb
+E:\C# ASSGINMENT MISS\Jagged\bin\Debug\Jagged.exe.config
+E:\C# ASSGINMENT MISS\Jagged\obj\Debug\Jagged.exe
+E:\C# ASSGINMENT MISS\Jagged\obj\Debug\Jagged.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Jagged\bin\Debug\Jagged.exe.config
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Jagged\bin\Debug\Jagged.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Jagged\bin\Debug\Jagged.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Jagged\obj\Debug\Jagged.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Jagged\obj\Debug\Jagged.pdb

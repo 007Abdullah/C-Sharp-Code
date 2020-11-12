@@ -1,0 +1,24 @@
+C:\Users\MY PC\documents\visual studio 2012\Projects\Combo Box\Combo Box\bin\Debug\Combo Box.exe.config
+C:\Users\MY PC\documents\visual studio 2012\Projects\Combo Box\Combo Box\bin\Debug\Combo Box.exe
+C:\Users\MY PC\documents\visual studio 2012\Projects\Combo Box\Combo Box\bin\Debug\Combo Box.pdb
+C:\Users\MY PC\documents\visual studio 2012\Projects\Combo Box\Combo Box\obj\Debug\Combo_Box.Form1.resources
+C:\Users\MY PC\documents\visual studio 2012\Projects\Combo Box\Combo Box\obj\Debug\Combo_Box.Properties.Resources.resources
+C:\Users\MY PC\documents\visual studio 2012\Projects\Combo Box\Combo Box\obj\Debug\Combo Box.csproj.GenerateResource.Cache
+C:\Users\MY PC\documents\visual studio 2012\Projects\Combo Box\Combo Box\obj\Debug\Combo Box.exe
+C:\Users\MY PC\documents\visual studio 2012\Projects\Combo Box\Combo Box\obj\Debug\Combo Box.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Combo Box\Combo Box\obj\Debug\Combo Box.csprojResolveAssemblyReference.cache
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Combo Box\Combo Box\bin\Debug\MetroFramework.Design.dll
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Combo Box\Combo Box\bin\Debug\MetroFramework.dll
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Combo Box\Combo Box\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Combo Box\Combo Box\bin\Debug\Combo Box.exe.config
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Combo Box\Combo Box\obj\Debug\Combo Box.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Combo Box\Combo Box\obj\Debug\Combo Box.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Combo Box\Combo Box\bin\Debug\Combo Box.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Combo Box\Combo Box\bin\Debug\Combo Box.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Combo Box\Combo Box\bin\Debug\MetroFramework.Design.dll
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Combo Box\Combo Box\bin\Debug\MetroFramework.dll
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Combo Box\Combo Box\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Combo Box\Combo Box\obj\Debug\Combo Box.csprojResolveAssemblyReference.cache
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Combo Box\Combo Box\obj\Debug\Combo_Box.Form1.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Combo Box\Combo Box\obj\Debug\Combo_Box.Properties.Resources.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Combo Box\Combo Box\obj\Debug\Combo Box.csproj.GenerateResource.Cache

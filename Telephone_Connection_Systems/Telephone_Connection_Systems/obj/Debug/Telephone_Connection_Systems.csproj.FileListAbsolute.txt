@@ -1,0 +1,11 @@
+c:\users\its my life\documents\visual studio 2013\Projects\Telephone_Connection_Systems\Telephone_Connection_Systems\bin\Debug\Telephone_Connection_Systems.exe.config
+c:\users\its my life\documents\visual studio 2013\Projects\Telephone_Connection_Systems\Telephone_Connection_Systems\bin\Debug\Telephone_Connection_Systems.exe
+c:\users\its my life\documents\visual studio 2013\Projects\Telephone_Connection_Systems\Telephone_Connection_Systems\bin\Debug\Telephone_Connection_Systems.pdb
+c:\users\its my life\documents\visual studio 2013\Projects\Telephone_Connection_Systems\Telephone_Connection_Systems\obj\Debug\Telephone_Connection_Systems.csprojResolveAssemblyReference.cache
+c:\users\its my life\documents\visual studio 2013\Projects\Telephone_Connection_Systems\Telephone_Connection_Systems\obj\Debug\Telephone_Connection_Systems.Form1.resources
+c:\users\its my life\documents\visual studio 2013\Projects\Telephone_Connection_Systems\Telephone_Connection_Systems\obj\Debug\Telephone_Connection_Systems.Properties.Resources.resources
+c:\users\its my life\documents\visual studio 2013\Projects\Telephone_Connection_Systems\Telephone_Connection_Systems\obj\Debug\Telephone_Connection_Systems.Register.resources
+c:\users\its my life\documents\visual studio 2013\Projects\Telephone_Connection_Systems\Telephone_Connection_Systems\obj\Debug\Telephone_Connection_Systems.csproj.GenerateResource.Cache
+c:\users\its my life\documents\visual studio 2013\Projects\Telephone_Connection_Systems\Telephone_Connection_Systems\obj\Debug\Telephone_Connection_Systems.exe
+c:\users\its my life\documents\visual studio 2013\Projects\Telephone_Connection_Systems\Telephone_Connection_Systems\obj\Debug\Telephone_Connection_Systems.pdb
+c:\users\its my life\documents\visual studio 2013\Projects\Telephone_Connection_Systems\Telephone_Connection_Systems\obj\Debug\Telephone_Connection_Systems.User_Connection_detail.resources

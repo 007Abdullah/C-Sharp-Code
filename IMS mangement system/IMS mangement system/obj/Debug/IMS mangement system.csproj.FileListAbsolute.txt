@@ -1,0 +1,27 @@
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\IMS mangement system\IMS mangement system\bin\Debug\IMS mangement system.exe.config
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\IMS mangement system\IMS mangement system\bin\Debug\IMS mangement system.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\IMS mangement system\IMS mangement system\bin\Debug\IMS mangement system.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\IMS mangement system\IMS mangement system\bin\Debug\MetroFramework.dll
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS_mangement_system.regitr.resources
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS_mangement_system.Salefrom.resources
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS_mangement_system.stokform.resources
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS_mangement_system.Properties.Resources.resources
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS_mangement_system.PurshForm.resources
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS mangement system.csproj.GenerateResource.Cache
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS mangement system.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS mangement system.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS_mangement_system.From.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\bin\Debug\IMS mangement system.exe.config
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS mangement system.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS mangement system.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\bin\Debug\IMS mangement system.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\bin\Debug\IMS mangement system.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\bin\Debug\MetroFramework.dll
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS mangement system.csprojResolveAssemblyReference.cache
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS_mangement_system.regitr.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS_mangement_system.Salefrom.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS_mangement_system.stokform.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS_mangement_system.From.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS_mangement_system.Properties.Resources.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS_mangement_system.PurshForm.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\IMS mangement system\IMS mangement system\obj\Debug\IMS mangement system.csproj.GenerateResource.Cache

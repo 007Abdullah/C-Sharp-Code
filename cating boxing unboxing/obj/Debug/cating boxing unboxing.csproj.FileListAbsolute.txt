@@ -1,0 +1,5 @@
+c:\users\my pc\documents\visual studio 2012\Projects\cating boxing unboxing\bin\Debug\cating boxing unboxing.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\cating boxing unboxing\bin\Debug\cating boxing unboxing.exe
+c:\users\my pc\documents\visual studio 2012\Projects\cating boxing unboxing\bin\Debug\cating boxing unboxing.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\cating boxing unboxing\obj\Debug\cating boxing unboxing.exe
+c:\users\my pc\documents\visual studio 2012\Projects\cating boxing unboxing\obj\Debug\cating boxing unboxing.pdb

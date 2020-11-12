@@ -1,0 +1,6 @@
+C:\Users\MY PC\documents\visual studio 2012\Projects\Boosk ANY THING CHAPTER CODe\Chapter NO 3\obj\Debug\Chapter NO 3.csprojResolveAssemblyReference.cache
+C:\Users\MY PC\documents\visual studio 2012\Projects\Boosk ANY THING CHAPTER CODe\Chapter NO 3\bin\Debug\Chapter NO 3.exe.config
+C:\Users\MY PC\documents\visual studio 2012\Projects\Boosk ANY THING CHAPTER CODe\Chapter NO 3\bin\Debug\Chapter NO 3.exe
+C:\Users\MY PC\documents\visual studio 2012\Projects\Boosk ANY THING CHAPTER CODe\Chapter NO 3\bin\Debug\Chapter NO 3.pdb
+C:\Users\MY PC\documents\visual studio 2012\Projects\Boosk ANY THING CHAPTER CODe\Chapter NO 3\obj\Debug\Chapter NO 3.exe
+C:\Users\MY PC\documents\visual studio 2012\Projects\Boosk ANY THING CHAPTER CODe\Chapter NO 3\obj\Debug\Chapter NO 3.pdb

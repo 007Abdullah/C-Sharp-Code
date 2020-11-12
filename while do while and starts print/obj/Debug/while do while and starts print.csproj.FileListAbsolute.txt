@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\while do while and starts print\bin\Debug\while do while and starts print.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\while do while and starts print\bin\Debug\while do while and starts print.exe
+c:\users\my pc\documents\visual studio 2012\Projects\while do while and starts print\bin\Debug\while do while and starts print.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\while do while and starts print\obj\Debug\while do while and starts print.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\while do while and starts print\obj\Debug\while do while and starts print.exe
+c:\users\my pc\documents\visual studio 2012\Projects\while do while and starts print\obj\Debug\while do while and starts print.pdb

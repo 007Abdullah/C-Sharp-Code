@@ -1,0 +1,5 @@
+c:\users\my pc\documents\visual studio 2012\Projects\interface mehtod\bin\Debug\interface mehtod.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\interface mehtod\bin\Debug\interface mehtod.exe
+c:\users\my pc\documents\visual studio 2012\Projects\interface mehtod\bin\Debug\interface mehtod.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\interface mehtod\obj\Debug\interface mehtod.exe
+c:\users\my pc\documents\visual studio 2012\Projects\interface mehtod\obj\Debug\interface mehtod.pdb

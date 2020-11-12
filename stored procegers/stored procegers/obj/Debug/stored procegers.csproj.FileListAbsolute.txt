@@ -1,0 +1,9 @@
+c:\users\my pc\documents\visual studio 2012\Projects\stored procegers\stored procegers\bin\Debug\stored procegers.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\stored procegers\stored procegers\bin\Debug\stored procegers.exe
+c:\users\my pc\documents\visual studio 2012\Projects\stored procegers\stored procegers\bin\Debug\stored procegers.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\stored procegers\stored procegers\obj\Debug\stored procegers.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\stored procegers\stored procegers\obj\Debug\stored_procegers.Form1.resources
+c:\users\my pc\documents\visual studio 2012\Projects\stored procegers\stored procegers\obj\Debug\stored_procegers.Properties.Resources.resources
+c:\users\my pc\documents\visual studio 2012\Projects\stored procegers\stored procegers\obj\Debug\stored procegers.csproj.GenerateResource.Cache
+c:\users\my pc\documents\visual studio 2012\Projects\stored procegers\stored procegers\obj\Debug\stored procegers.exe
+c:\users\my pc\documents\visual studio 2012\Projects\stored procegers\stored procegers\obj\Debug\stored procegers.pdb

@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\name_space\name_space\bin\Debug\name_space.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\name_space\name_space\bin\Debug\name_space.exe
+c:\users\my pc\documents\visual studio 2012\Projects\name_space\name_space\bin\Debug\name_space.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\name_space\name_space\obj\Debug\name_space.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\name_space\name_space\obj\Debug\name_space.exe
+c:\users\my pc\documents\visual studio 2012\Projects\name_space\name_space\obj\Debug\name_space.pdb

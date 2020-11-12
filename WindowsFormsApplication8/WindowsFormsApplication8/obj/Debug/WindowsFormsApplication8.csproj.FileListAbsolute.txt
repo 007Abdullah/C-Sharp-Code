@@ -1,0 +1,12 @@
+c:\users\its my life\documents\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+c:\users\its my life\documents\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+c:\users\its my life\documents\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+c:\users\its my life\documents\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+c:\users\its my life\documents\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+c:\users\its my life\documents\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\its my life\documents\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+c:\users\its my life\documents\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+c:\users\its my life\documents\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\ITS MY LIFE\documents\visual studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.mode_of_connection.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\RdlCompile.compiled

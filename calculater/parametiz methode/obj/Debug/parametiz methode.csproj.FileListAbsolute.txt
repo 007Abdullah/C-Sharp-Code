@@ -1,0 +1,7 @@
+c:\users\my pc\documents\visual studio 2012\Projects\calculater\parametiz methode\bin\Debug\parametiz methode.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\calculater\parametiz methode\bin\Debug\parametiz methode.exe
+c:\users\my pc\documents\visual studio 2012\Projects\calculater\parametiz methode\bin\Debug\parametiz methode.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\calculater\parametiz methode\obj\Debug\parametiz methode.exe
+c:\users\my pc\documents\visual studio 2012\Projects\calculater\parametiz methode\obj\Debug\parametiz methode.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\calculater\parametiz methode\bin\Debug\parametiz methode.exe.CodeAnalysisLog.xml
+c:\users\my pc\documents\visual studio 2012\Projects\calculater\parametiz methode\bin\Debug\parametiz methode.exe.lastcodeanalysissucceeded

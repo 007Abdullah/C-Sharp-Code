@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\Object Initializer\bin\Debug\Object Initializer.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\Object Initializer\bin\Debug\Object Initializer.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Object Initializer\bin\Debug\Object Initializer.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\Object Initializer\obj\Debug\Object Initializer.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Object Initializer\obj\Debug\Object Initializer.pdb
+C:\Users\MY PC\documents\visual studio 2012\Projects\Object Initializer\obj\Debug\Object Initializer.csprojResolveAssemblyReference.cache

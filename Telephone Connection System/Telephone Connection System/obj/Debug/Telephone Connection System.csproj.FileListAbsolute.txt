@@ -1,0 +1,2 @@
+c:\users\my pc\documents\visual studio 2012\Projects\Telephone Connection System\Telephone Connection System\bin\Debug\Telephone Connection System.exe.config
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Telephone Connection System\Telephone Connection System\bin\Debug\Telephone Connection System.exe.config

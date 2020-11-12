@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\name and argument\bin\Debug\name and argument.exe.config
+C:\Users\MY PC\documents\visual studio 2012\Projects\name and argument\bin\Debug\name and argument.exe
+C:\Users\MY PC\documents\visual studio 2012\Projects\name and argument\bin\Debug\name and argument.pdb
+C:\Users\MY PC\documents\visual studio 2012\Projects\name and argument\obj\Debug\name and argument.csprojResolveAssemblyReference.cache
+C:\Users\MY PC\documents\visual studio 2012\Projects\name and argument\obj\Debug\name and argument.exe
+C:\Users\MY PC\documents\visual studio 2012\Projects\name and argument\obj\Debug\name and argument.pdb

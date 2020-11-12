@@ -1,0 +1,12 @@
+c:\users\my pc\documents\visual studio 2012\Projects\Modren Ui Degn login from\Modren Ui Degn login from\bin\Debug\Modren Ui Degn login from.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\Modren Ui Degn login from\Modren Ui Degn login from\bin\Debug\Modren Ui Degn login from.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Modren Ui Degn login from\Modren Ui Degn login from\bin\Debug\Modren Ui Degn login from.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\Modren Ui Degn login from\Modren Ui Degn login from\obj\Debug\Modren_Ui_Degn_login_from.Form1.resources
+c:\users\my pc\documents\visual studio 2012\Projects\Modren Ui Degn login from\Modren Ui Degn login from\obj\Debug\Modren_Ui_Degn_login_from.Properties.Resources.resources
+c:\users\my pc\documents\visual studio 2012\Projects\Modren Ui Degn login from\Modren Ui Degn login from\obj\Debug\Modren Ui Degn login from.csproj.GenerateResource.Cache
+c:\users\my pc\documents\visual studio 2012\Projects\Modren Ui Degn login from\Modren Ui Degn login from\obj\Debug\Modren Ui Degn login from.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Modren Ui Degn login from\Modren Ui Degn login from\obj\Debug\Modren Ui Degn login from.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\Modren Ui Degn login from\Modren Ui Degn login from\bin\Debug\MetroFramework.Design.dll
+c:\users\my pc\documents\visual studio 2012\Projects\Modren Ui Degn login from\Modren Ui Degn login from\bin\Debug\MetroFramework.dll
+c:\users\my pc\documents\visual studio 2012\Projects\Modren Ui Degn login from\Modren Ui Degn login from\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\Modren Ui Degn login from\Modren Ui Degn login from\obj\Debug\Modren Ui Degn login from.csprojResolveAssemblyReference.cache

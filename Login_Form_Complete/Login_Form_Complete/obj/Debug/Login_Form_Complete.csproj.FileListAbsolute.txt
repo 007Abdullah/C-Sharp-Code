@@ -1,0 +1,12 @@
+c:\users\my pc\documents\visual studio 2012\Projects\Login_Form_Complete\Login_Form_Complete\bin\Debug\Login_Form_Complete.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\Login_Form_Complete\Login_Form_Complete\bin\Debug\Login_Form_Complete.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Login_Form_Complete\Login_Form_Complete\bin\Debug\Login_Form_Complete.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\Login_Form_Complete\Login_Form_Complete\obj\Debug\Login_Form_Complete.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\Login_Form_Complete\Login_Form_Complete\obj\Debug\Login_Form_Complete.Form1.resources
+c:\users\my pc\documents\visual studio 2012\Projects\Login_Form_Complete\Login_Form_Complete\obj\Debug\Login_Form_Complete.Properties.Resources.resources
+c:\users\my pc\documents\visual studio 2012\Projects\Login_Form_Complete\Login_Form_Complete\obj\Debug\Login_Form_Complete.csproj.GenerateResource.Cache
+c:\users\my pc\documents\visual studio 2012\Projects\Login_Form_Complete\Login_Form_Complete\obj\Debug\Login_Form_Complete.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Login_Form_Complete\Login_Form_Complete\obj\Debug\Login_Form_Complete.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Login_Form_Complete\Login_Form_Complete\bin\Debug\Login_Form_Complete.exe.config
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Login_Form_Complete\Login_Form_Complete\obj\Debug\Login_Form_Complete.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\Login_Form_Complete\Login_Form_Complete\obj\Debug\Login_Form_Complete.pdb

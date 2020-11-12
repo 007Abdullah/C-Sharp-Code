@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\Destructors\bin\Debug\Destructors.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\Destructors\bin\Debug\Destructors.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Destructors\bin\Debug\Destructors.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\Destructors\obj\Debug\Destructors.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\Destructors\obj\Debug\Destructors.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Destructors\obj\Debug\Destructors.pdb

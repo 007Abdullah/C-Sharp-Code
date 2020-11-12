@@ -1,0 +1,12 @@
+c:\users\my pc\documents\visual studio 2012\Projects\UserInformation\UserInformation\bin\Debug\UserInformation.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\UserInformation\UserInformation\bin\Debug\UserInformation.exe
+c:\users\my pc\documents\visual studio 2012\Projects\UserInformation\UserInformation\bin\Debug\UserInformation.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\UserInformation\UserInformation\obj\Debug\UserInformation.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\UserInformation\UserInformation\obj\Debug\UserInformation.Form1.resources
+c:\users\my pc\documents\visual studio 2012\Projects\UserInformation\UserInformation\obj\Debug\UserInformation.Properties.Resources.resources
+c:\users\my pc\documents\visual studio 2012\Projects\UserInformation\UserInformation\obj\Debug\UserInformation.csproj.GenerateResource.Cache
+c:\users\my pc\documents\visual studio 2012\Projects\UserInformation\UserInformation\obj\Debug\UserInformation.exe
+c:\users\my pc\documents\visual studio 2012\Projects\UserInformation\UserInformation\obj\Debug\UserInformation.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\UserInformation\UserInformation\bin\Debug\UserInformation.exe.config
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\UserInformation\UserInformation\obj\Debug\UserInformation.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\UserInformation\UserInformation\obj\Debug\UserInformation.pdb

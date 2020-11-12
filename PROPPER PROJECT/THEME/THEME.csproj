@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5D7C0215-7269-4DE5-86D5-44054F84B19C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>THEME</RootNamespace>
+    <AssemblyName>THEME</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>E:\APTECH\BUNIFU\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DSoft.RDLC">
+      <HintPath>..\packages\RDLCPrinter.1.2.0\lib\net45\DSoft.RDLC.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\Metro_UI_Form\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\Metro_UI_Form\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\Metro_UI_Form\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Report.Viewer.10.0.0.0\lib\net\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Report.Viewer.10.0.0.0\lib\net\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Report.Viewer.10.0.0.0\lib\net\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.ReportViewer.WinForms.VS2010.10.0.40219.1\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="RDLCReportRunner">
+      <HintPath>..\packages\RDLCReportRunner.1.0.0\lib\RDLCReportRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Login.Designer.cs">
+      <DependentUpon>Admin_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Registration.Designer.cs">
+      <DependentUpon>Admin_Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataClasses1.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="ForgetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForgetPassword.Designer.cs">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Message1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Message1.Designer.cs">
+      <DependentUpon>Message1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Message2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Message2.Designer.cs">
+      <DependentUpon>Message2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Message3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Message3.Designer.cs">
+      <DependentUpon>Message3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Message4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Message4.Designer.cs">
+      <DependentUpon>Message4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Message5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Message5.Designer.cs">
+      <DependentUpon>Message5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProjectName.Designer.cs">
+      <DependentUpon>ProjectName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\DispatcherHelper.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\enumeration.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\LightDoubleSlider.xaml.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\LightIntergerSpinner.xaml.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\MethodExtension\BitmapExtention.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\MethodExtension\ButtonExtention.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\MethodExtension\DoubleExtension.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\MethodExtension\ImageExtention.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\MethodExtension\KeyEventExtension.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\Properties\AssemblyInfo.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\Properties\Resources.Designer.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\Properties\Settings.Designer.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\RDLCPrinter.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\RDLCPrinterDialog.xaml.cs" />
+    <Compile Include="RDLCPrinter\MrDSoft.RDLC\RDLCReportViewer.xaml.cs" />
+    <Compile Include="RDLCPrinter\RDLCDemo\App.xaml.cs" />
+    <Compile Include="RDLCPrinter\RDLCDemo\MainWindow.xaml.cs" />
+    <Compile Include="RDLCPrinter\RDLCDemo\NorthwindDataSet.cs">
+      <DependentUpon>NorthwindDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RDLCPrinter\RDLCDemo\NorthwindDataSet.Designer.cs" />
+    <Compile Include="RDLCPrinter\RDLCDemo\Properties\AssemblyInfo.cs" />
+    <Compile Include="RDLCPrinter\RDLCDemo\Properties\Resources.Designer.cs" />
+    <Compile Include="RDLCPrinter\RDLCDemo\Properties\Settings.Designer.cs" />
+    <Compile Include="Rocket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rocket.Designer.cs">
+      <DependentUpon>Rocket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelephoneDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TelephoneDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TelephoneDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TelephoneDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TelephoneDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TelephoneDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UserControles\UC_AddUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControles\UC_AddUser.Designer.cs">
+      <DependentUpon>UC_AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControles\UC_UserDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControles\UC_UserDetails.Designer.cs">
+      <DependentUpon>UC_UserDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControles\UC_UserReporting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControles\UC_UserReporting.Designer.cs">
+      <DependentUpon>UC_UserReporting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinAPI.cs" />
+    <EmbeddedResource Include="Admin_Login.resx">
+      <DependentUpon>Admin_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Registration.resx">
+      <DependentUpon>Admin_Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataClasses1.dbml.layout">
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="ForgetPassword.resx">
+      <DependentUpon>ForgetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Message1.resx">
+      <DependentUpon>Message1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Message2.resx">
+      <DependentUpon>Message2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Message3.resx">
+      <DependentUpon>Message3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Message4.resx">
+      <DependentUpon>Message4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Message5.resx">
+      <DependentUpon>Message5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjectName.resx">
+      <DependentUpon>ProjectName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RDLCPrinter\MrDSoft.RDLC\Properties\Resources.resx" />
+    <EmbeddedResource Include="RDLCPrinter\RDLCDemo\Properties\Resources.resx" />
+    <EmbeddedResource Include="RDLCPrinter\RDLCDemo\ReportTest.rdlc" />
+    <EmbeddedResource Include="Rocket.resx">
+      <DependentUpon>Rocket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControles\Report1.rdlc" />
+    <EmbeddedResource Include="UserControles\Report2.rdlc" />
+    <EmbeddedResource Include="UserControles\Report3.rdlc" />
+    <EmbeddedResource Include="UserControles\UC_AddUser.resx">
+      <DependentUpon>UC_AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControles\UC_UserDetails.resx">
+      <DependentUpon>UC_UserDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControles\UC_UserReporting.resx">
+      <DependentUpon>UC_UserReporting.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataClasses1.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses1.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="RDLCPrinter\.gitattributes" />
+    <None Include="RDLCPrinter\.gitignore" />
+    <None Include="RDLCPrinter\MrDSoft.RDLC\Properties\Settings.settings" />
+    <None Include="RDLCPrinter\RDLCDemo\App.config" />
+    <None Include="RDLCPrinter\RDLCDemo\NorthwindDataSet.xsc">
+      <DependentUpon>NorthwindDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="RDLCPrinter\RDLCDemo\NorthwindDataSet.xsd" />
+    <None Include="RDLCPrinter\RDLCDemo\NorthwindDataSet.xss" />
+    <None Include="RDLCPrinter\RDLCDemo\Properties\Settings.settings" />
+    <None Include="TelephoneDataSet.xsc">
+      <DependentUpon>TelephoneDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TelephoneDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TelephoneDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TelephoneDataSet.xss">
+      <DependentUpon>TelephoneDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TelephoneDataSet1.xsc">
+      <DependentUpon>TelephoneDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="TelephoneDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TelephoneDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TelephoneDataSet1.xss">
+      <DependentUpon>TelephoneDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="TelephoneDataSet2.xsc">
+      <DependentUpon>TelephoneDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="TelephoneDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TelephoneDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TelephoneDataSet2.xss">
+      <DependentUpon>TelephoneDataSet2.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\DSoft.RDLC.csproj" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\DSoft.RDLC.csproj.user" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\DSoft.RDLC.csproj.vspscc" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\AllPage.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\arrow.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\Basic-Settings.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\Bold.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\Button-Blank-Green.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\Button-Blank-Red.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\Checked-checkbox.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\DownArrow.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\ExcelExport.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\ExportPDF.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\ImageExport.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\move-first.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\move-last.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\move-next.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\move-previous.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\ok-apply.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\print.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\Refresh.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\Search.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\System-Delete.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\TailleNormal.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\UpArrow.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\WordExport.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\ZoomMoin.ico" />
+    <Content Include="RDLCPrinter\MrDSoft.RDLC\Resources\ZoomPlus.ico" />
+    <Content Include="RDLCPrinter\RDLCDemo\Northwind.sdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="RDLCPrinter\RDLCDemo\RDLCDemo.csproj" />
+    <Content Include="RDLCPrinter\RDLCDemo\RDLCDemo.csproj.user" />
+    <Content Include="RDLCPrinter\RDLCDemo\RDLCDemo.csproj.vspscc" />
+    <Content Include="RDLCPrinter\RDLCDemo\RDLCReport.sln" />
+    <Content Include="RDLCPrinter\RDLCDemo\RDLCReport.vssscc" />
+    <Content Include="RDLCPrinter\RDLCReport.sln" />
+    <Content Include="RDLCPrinter\RDLCReport.vssscc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="RDLCPrinter\MrDSoft.RDLC\LightDoubleSlider.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="RDLCPrinter\MrDSoft.RDLC\LightIntergerSpinner.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="RDLCPrinter\MrDSoft.RDLC\RDLCPrinterDialog.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="RDLCPrinter\MrDSoft.RDLC\RDLCReportViewer.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="RDLCPrinter\MrDSoft.RDLC\Style\BrushDictionary.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="RDLCPrinter\MrDSoft.RDLC\Style\ButtonDictionary.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="RDLCPrinter\MrDSoft.RDLC\Style\LabelDictionary.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="RDLCPrinter\MrDSoft.RDLC\Style\ToolBarDictionary.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="RDLCPrinter\RDLCDemo\App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="RDLCPrinter\RDLCDemo\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

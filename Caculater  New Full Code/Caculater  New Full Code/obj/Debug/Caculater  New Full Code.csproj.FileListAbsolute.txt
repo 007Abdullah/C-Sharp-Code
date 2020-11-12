@@ -1,0 +1,9 @@
+c:\users\my pc\documents\visual studio 2012\Projects\Caculater  New Full Code\Caculater  New Full Code\bin\Debug\Caculater  New Full Code.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\Caculater  New Full Code\Caculater  New Full Code\bin\Debug\Caculater  New Full Code.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Caculater  New Full Code\Caculater  New Full Code\bin\Debug\Caculater  New Full Code.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\Caculater  New Full Code\Caculater  New Full Code\obj\Debug\Caculater  New Full Code.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\Caculater  New Full Code\Caculater  New Full Code\obj\Debug\Caculater__New_Full_Code.Form1.resources
+c:\users\my pc\documents\visual studio 2012\Projects\Caculater  New Full Code\Caculater  New Full Code\obj\Debug\Caculater__New_Full_Code.Properties.Resources.resources
+c:\users\my pc\documents\visual studio 2012\Projects\Caculater  New Full Code\Caculater  New Full Code\obj\Debug\Caculater  New Full Code.csproj.GenerateResource.Cache
+c:\users\my pc\documents\visual studio 2012\Projects\Caculater  New Full Code\Caculater  New Full Code\obj\Debug\Caculater  New Full Code.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Caculater  New Full Code\Caculater  New Full Code\obj\Debug\Caculater  New Full Code.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication10", "ConsoleApplication10.csproj", "{2E4EF47D-A8E6-4264-B7E4-1FCD9F531739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged", "..\Jagged\Jagged.csproj", "{187F4930-3018-4964-A303-5891D9B8FCFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E4EF47D-A8E6-4264-B7E4-1FCD9F531739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4EF47D-A8E6-4264-B7E4-1FCD9F531739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4EF47D-A8E6-4264-B7E4-1FCD9F531739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4EF47D-A8E6-4264-B7E4-1FCD9F531739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{187F4930-3018-4964-A303-5891D9B8FCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187F4930-3018-4964-A303-5891D9B8FCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187F4930-3018-4964-A303-5891D9B8FCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187F4930-3018-4964-A303-5891D9B8FCFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

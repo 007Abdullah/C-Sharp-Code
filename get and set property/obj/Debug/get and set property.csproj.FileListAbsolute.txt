@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\get and set property\bin\Debug\get and set property.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\get and set property\bin\Debug\get and set property.exe
+c:\users\my pc\documents\visual studio 2012\Projects\get and set property\bin\Debug\get and set property.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\get and set property\obj\Debug\get and set property.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\get and set property\obj\Debug\get and set property.exe
+c:\users\my pc\documents\visual studio 2012\Projects\get and set property\obj\Debug\get and set property.pdb

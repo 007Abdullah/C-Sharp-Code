@@ -1,0 +1,12 @@
+C:\Users\Teacher PC\Desktop\s6_2\bin\Debug\s6_2.exe.config
+C:\Users\Teacher PC\Desktop\s6_2\obj\Debug\s6_2.csprojResolveAssemblyReference.cache
+C:\Users\Teacher PC\Desktop\s6_2\bin\Debug\s6_2.exe
+C:\Users\Teacher PC\Desktop\s6_2\bin\Debug\s6_2.pdb
+C:\Users\Teacher PC\Desktop\s6_2\obj\Debug\s6_2.exe
+C:\Users\Teacher PC\Desktop\s6_2\obj\Debug\s6_2.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\s6_2\bin\Debug\s6_2.exe.config
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\s6_2\obj\Debug\s6_2.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\s6_2\obj\Debug\s6_2.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\s6_2\bin\Debug\s6_2.exe
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\s6_2\bin\Debug\s6_2.pdb
+C:\Users\MY PC\Documents\Visual Studio 2012\Projects\s6_2\obj\Debug\s6_2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+c:\users\my pc\documents\visual studio 2012\Projects\Marksheet winform\bin\Debug\Marksheet winform.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\Marksheet winform\bin\Debug\Marksheet winform.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Marksheet winform\bin\Debug\Marksheet winform.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\Marksheet winform\obj\Debug\Marksheet winform.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\Marksheet winform\obj\Debug\Marksheet_winform.Form1.resources
+c:\users\my pc\documents\visual studio 2012\Projects\Marksheet winform\obj\Debug\Marksheet_winform.Properties.Resources.resources
+c:\users\my pc\documents\visual studio 2012\Projects\Marksheet winform\obj\Debug\Marksheet winform.csproj.GenerateResource.Cache
+c:\users\my pc\documents\visual studio 2012\Projects\Marksheet winform\obj\Debug\Marksheet winform.exe
+c:\users\my pc\documents\visual studio 2012\Projects\Marksheet winform\obj\Debug\Marksheet winform.pdb
+D:\Window 10\Visual Studio 2013\Projects\Marksheet winform\bin\Debug\Marksheet winform.exe.config
+D:\Window 10\Visual Studio 2013\Projects\Marksheet winform\obj\Debug\Marksheet winform.exe
+D:\Window 10\Visual Studio 2013\Projects\Marksheet winform\obj\Debug\Marksheet winform.pdb
+D:\Window 10\Visual Studio 2013\Projects\Marksheet winform\bin\Debug\Marksheet winform.exe
+D:\Window 10\Visual Studio 2013\Projects\Marksheet winform\bin\Debug\Marksheet winform.pdb
+D:\Window 10\Visual Studio 2013\Projects\Marksheet winform\obj\Debug\Marksheet winform.csprojResolveAssemblyReference.cache
+D:\Window 10\Visual Studio 2013\Projects\Marksheet winform\obj\Debug\Marksheet_winform.Form1.resources
+D:\Window 10\Visual Studio 2013\Projects\Marksheet winform\obj\Debug\Marksheet_winform.Properties.Resources.resources
+D:\Window 10\Visual Studio 2013\Projects\Marksheet winform\obj\Debug\Marksheet winform.csproj.GenerateResource.Cache

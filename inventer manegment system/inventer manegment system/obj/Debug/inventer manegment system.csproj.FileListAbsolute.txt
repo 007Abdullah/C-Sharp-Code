@@ -1,0 +1,12 @@
+C:\Users\MY PC\documents\visual studio 2012\Projects\inventer manegment system\inventer manegment system\bin\Debug\inventer manegment system.exe.config
+C:\Users\MY PC\documents\visual studio 2012\Projects\inventer manegment system\inventer manegment system\bin\Debug\inventer manegment system.exe
+C:\Users\MY PC\documents\visual studio 2012\Projects\inventer manegment system\inventer manegment system\bin\Debug\inventer manegment system.pdb
+C:\Users\MY PC\documents\visual studio 2012\Projects\inventer manegment system\inventer manegment system\obj\Debug\inventer_manegment_system.MDI.resources
+C:\Users\MY PC\documents\visual studio 2012\Projects\inventer manegment system\inventer manegment system\obj\Debug\inventer_manegment_system.Properties.Resources.resources
+C:\Users\MY PC\documents\visual studio 2012\Projects\inventer manegment system\inventer manegment system\obj\Debug\inventer_manegment_system.Sample.resources
+C:\Users\MY PC\documents\visual studio 2012\Projects\inventer manegment system\inventer manegment system\obj\Debug\inventer manegment system.csproj.GenerateResource.Cache
+C:\Users\MY PC\documents\visual studio 2012\Projects\inventer manegment system\inventer manegment system\obj\Debug\inventer manegment system.exe
+C:\Users\MY PC\documents\visual studio 2012\Projects\inventer manegment system\inventer manegment system\obj\Debug\inventer manegment system.pdb
+C:\Users\MY PC\documents\visual studio 2012\Projects\inventer manegment system\inventer manegment system\obj\Debug\inventer_manegment_system.login.resources
+C:\Users\MY PC\documents\visual studio 2012\Projects\inventer manegment system\inventer manegment system\obj\Debug\inventer manegment system.csprojResolveAssemblyReference.cache
+C:\Users\MY PC\documents\visual studio 2012\Projects\inventer manegment system\inventer manegment system\obj\Debug\inventer_manegment_system.setting.resources

@@ -1,0 +1,26 @@
+c:\users\my pc\documents\visual studio 2012\Projects\winfm animated ui\winfm animated ui\bin\Debug\winfm animated ui.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\winfm animated ui\winfm animated ui\bin\Debug\winfm animated ui.exe
+c:\users\my pc\documents\visual studio 2012\Projects\winfm animated ui\winfm animated ui\bin\Debug\winfm animated ui.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\winfm animated ui\winfm animated ui\bin\Debug\Animator.dll
+c:\users\my pc\documents\visual studio 2012\Projects\winfm animated ui\winfm animated ui\obj\Debug\winfm_animated_ui.Properties.Resources.resources
+c:\users\my pc\documents\visual studio 2012\Projects\winfm animated ui\winfm animated ui\obj\Debug\winfm animated ui.csproj.GenerateResource.Cache
+c:\users\my pc\documents\visual studio 2012\Projects\winfm animated ui\winfm animated ui\obj\Debug\winfm animated ui.exe
+c:\users\my pc\documents\visual studio 2012\Projects\winfm animated ui\winfm animated ui\obj\Debug\winfm animated ui.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\winfm animated ui\winfm animated ui\obj\Debug\winfm_animated_ui.Form1.resources
+c:\users\my pc\documents\visual studio 2012\Projects\winfm animated ui\winfm animated ui\bin\Debug\MetroFramework.Design.dll
+c:\users\my pc\documents\visual studio 2012\Projects\winfm animated ui\winfm animated ui\bin\Debug\MetroFramework.dll
+c:\users\my pc\documents\visual studio 2012\Projects\winfm animated ui\winfm animated ui\bin\Debug\MetroFramework.Fonts.dll
+c:\users\my pc\documents\visual studio 2012\Projects\winfm animated ui\winfm animated ui\obj\Debug\winfm animated ui.csprojResolveAssemblyReference.cache
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\winfm animated ui\winfm animated ui\bin\Debug\winfm animated ui.exe.config
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\winfm animated ui\winfm animated ui\obj\Debug\winfm animated ui.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\winfm animated ui\winfm animated ui\obj\Debug\winfm animated ui.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\winfm animated ui\winfm animated ui\bin\Debug\winfm animated ui.exe
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\winfm animated ui\winfm animated ui\bin\Debug\winfm animated ui.pdb
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\winfm animated ui\winfm animated ui\bin\Debug\Animator.dll
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\winfm animated ui\winfm animated ui\bin\Debug\MetroFramework.Design.dll
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\winfm animated ui\winfm animated ui\bin\Debug\MetroFramework.dll
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\winfm animated ui\winfm animated ui\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\winfm animated ui\winfm animated ui\obj\Debug\winfm animated ui.csprojResolveAssemblyReference.cache
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\winfm animated ui\winfm animated ui\obj\Debug\winfm_animated_ui.Form1.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\winfm animated ui\winfm animated ui\obj\Debug\winfm_animated_ui.Properties.Resources.resources
+C:\Users\ITS MY LIFE\Documents\Visual Studio 2013\Projects\winfm animated ui\winfm animated ui\obj\Debug\winfm animated ui.csproj.GenerateResource.Cache

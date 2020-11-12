@@ -1,0 +1,6 @@
+c:\users\my pc\documents\visual studio 2012\Projects\INterface\INterface\bin\Debug\INterface.exe.config
+c:\users\my pc\documents\visual studio 2012\Projects\INterface\INterface\obj\Debug\INterface.csprojResolveAssemblyReference.cache
+c:\users\my pc\documents\visual studio 2012\Projects\INterface\INterface\bin\Debug\INterface.exe
+c:\users\my pc\documents\visual studio 2012\Projects\INterface\INterface\bin\Debug\INterface.pdb
+c:\users\my pc\documents\visual studio 2012\Projects\INterface\INterface\obj\Debug\INterface.exe
+c:\users\my pc\documents\visual studio 2012\Projects\INterface\INterface\obj\Debug\INterface.pdb

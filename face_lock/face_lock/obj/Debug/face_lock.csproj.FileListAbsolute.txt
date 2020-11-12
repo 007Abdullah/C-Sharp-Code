@@ -1,0 +1,1 @@
+c:\users\its my life\documents\visual studio 2013\Projects\face_lock\face_lock\bin\Debug\face_lock.exe.config
